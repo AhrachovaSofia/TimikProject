@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Timeek</string>
+    <string name="logo">Timik\n Твій персональний помічник\n у справах </string>
+    <string name="lets">Почнімо!</string>
+    <string name="text1">Оберіть режим:</string>
+    <string name="button1">With kid</string>
+    <string name="button2">The KID itself </string>
+    <string name="button3">Child-free</string>
+    <string name="name">Ім\'я</string>
+    <string name="button_4">Продовжити</string>
+    <string name="button_3">Додати дитину</string>
+    <string name="button_2">Обрати персонажа</string>
+    <string name="button_1">Обрати колір</string>
+    <string name="text2">Створіть зображення профілю:</string>
+</resources>
